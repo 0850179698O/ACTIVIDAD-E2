@@ -27,6 +27,10 @@ comparamos los valores de dos números, para determinar cuál número es mayor o
 #### Funcionalidad
 #### Salidad
 ## Instalador
-´´´´
+´´´
 https://github.com/0850179698O/fundamento
-´´´´
+´´´
+### Compilar y ejecutar
+´´´
+sumaN
+´´´
