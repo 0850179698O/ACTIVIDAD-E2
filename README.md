@@ -7,8 +7,9 @@
 ## Programas
 ### Compara dos numeros
 #### Descripcion del problema 
+```
 comparamos los valores de dos números, para determinar cuál número es mayor o igual.
-
+```
 #### Funcionalidad
 ```
 Para comprobar si un valor numérico es mayor que otro, usamos el símbolo “>”, como se ve en este ejemplo. Para ver si dos valores son iguales, usaremos dos símbolos de “igual”.
