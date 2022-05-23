@@ -1,6 +1,6 @@
 # Programas en C++ de TORRES JENNIFFER
 ## Informacion de autor 
-´Autor:TORRES JENNIFFER´
+'Autor:TORRES JENNIFFER'
 
 ´Correo:jenniffer.torres.ayovi@utelvt.edu.
 
