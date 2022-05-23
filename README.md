@@ -28,6 +28,7 @@ La suma es la operación matemática que resulta al reunir en una sola varias ca
 Comprobar si el programa muestre la suma total.
 #### Salidad
 ```
+#### Salida
 ```
 jt_suma=jt_a+jt_b;
 ```
