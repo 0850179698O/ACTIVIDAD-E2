@@ -96,8 +96,11 @@ https://github.com/0850179698O/fundamento
 ```
 ### Compilar y ejececutar
 ```
+cd pamelatorres
+```
+```
 sumaN
 ```
 ```
-cd pamelatorres
+g++ sumaN -o sumaN-ejecutable
 ```
