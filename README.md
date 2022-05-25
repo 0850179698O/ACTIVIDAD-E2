@@ -19,7 +19,7 @@ Para comprobar si un valor numérico es mayor que otro, usamos el símbolo “>�
 #### Salidad
 ```
 if(jt_x==jt_y) //si son iguales
-if(jt_x>jt_y)  //si es mayo
+if(jt_x>jt_y)  //si es mayor
 ```
 ### Suma de varios numeros
 #### Descripcion del problema 
