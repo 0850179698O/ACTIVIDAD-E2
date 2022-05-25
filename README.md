@@ -1,8 +1,10 @@
 # Programas en C++ de TORRES JENNIFFER
 ## Informacion de autor 
 `Autor:TORRES JENNIFFER`
-
+## Correo electronico
 `Correo:jenniffer.torres.ayovi@utelvt.edu.`
+## Link de la actividad B1
+`https://youtu.be/Qynm8VSVHX0`
 
 ## Programas
 ### Compara dos numeros
