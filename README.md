@@ -18,8 +18,8 @@ Para comprobar si un valor numérico es mayor que otro, usamos el símbolo “>�
 ```
 #### Salidad
 ```
-if(jt_x==jt_y)
-if(jt_x>jt_y)
+if(jt_x==jt_y) //si son iguales
+if(jt_x>jt_y)  //si es mayo
 ```
 ### Suma de varios numeros
 #### Descripcion del problema 
@@ -33,7 +33,7 @@ Comprobar si el programa muestre la suma total.
 ```
 #### Salida
 ```
-jt_suma=jt_a+jt_b;
+jt_suma=jt_a+jt_b;  //sumamos
 ```
 ### Punto de venta
 #### Descripcion del problema 
@@ -47,8 +47,8 @@ Programa que muestre el 12% de iva y el 10% de descuiento y que desmuestre el va
 #### Salidad
 ```
 jt_vb = jt_a0;
-jt_iva = jt_vb*0.12;
-jt_vdes = jt_vb*0.10;
+jt_iva = jt_vb*0.12; //sacamos el iva
+jt_vdes = jt_vb*0.10;  //sacamos el descuento
 jt_vfi = jt_vb+jt_iva;
 jt_vft = jt_vfi-jt_vdes;
 ```
@@ -59,7 +59,7 @@ Hacer que el programa muestre el año, el mes y el dia de que a transcurrido des
 ```
 #### Funcionalidad
 ```
-programa que muestre la edad de una persona (año, mes, dia) de la persona.
+programa que muestre la edad de una persona (año, mes, dia) de la persona, tenemos que restar el año, mes y dias actual menos  el año, mes y dias de nacimiento de la persona. 
 ```
 #### Salidadá
 ```
@@ -67,7 +67,7 @@ if(jt_mesNaci < jt_mesAct){
 jt_edad=jt_anioNaci-jt_anioAct;
 }else if(jt_mesNaci<= jt_mesAct&jt_fechaNaci<=jt_fechaAct){
 jt_edad=jt_fechaNaci-jt_fechaAct;
-}else if(jt_mesNaci>jt_mesAct&jt_fechaNaci>jt_mesAct){(jt_edad=jt_anioAct-jt_anioNaci)-1;
+}else if(jt_mesNaci>jt_mesAct&jt_fechaNaci>jt_mesAct){(jt_edad=jt_anioAct-jt_anioNaci)-1; // restamos para que nos de la edad
 ```
 ### Cuenta moneda
 #### Descripcion del problema
