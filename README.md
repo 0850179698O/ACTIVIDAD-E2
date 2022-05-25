@@ -92,7 +92,7 @@ jt_a2 = jt_a2+jt_x;
 }
 ```
 ## Instalador
-###Descargar el repositorio
+### Descargar el repositorio
 ```
 https://github.com/0850179698O/fundamento
 ```
