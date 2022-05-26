@@ -101,7 +101,7 @@ https://github.com/0850179698O/fundamento
 cd pamelatorres
 ```
 ```
-sumaN
+sumaN.cpp
 ```
 ```
 g++ sumaN -o sumaN-ejecutable
