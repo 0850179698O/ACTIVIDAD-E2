@@ -37,9 +37,10 @@ Comprobar si el programa muestre la suma total.
 ```
 jt_suma=jt_a+jt_b;  //sumamos
 ```
-### Imagen de ejemplo
+### Imagen de ejemplo de la suma de varios numeros 
+```
 ![image](https://user-images.githubusercontent.com/101405857/170806315-3764f54b-b178-4864-b5d0-5769f9cf5b58.png)
-
+```
 ### Punto de venta
 #### Descripcion del problema 
 ```
@@ -73,6 +74,10 @@ jt_edad=jt_anioNaci-jt_anioAct;
 }else if(jt_mesNaci<= jt_mesAct&jt_fechaNaci<=jt_fechaAct){
 jt_edad=jt_fechaNaci-jt_fechaAct;
 }else if(jt_mesNaci>jt_mesAct&jt_fechaNaci>jt_mesAct){(jt_edad=jt_anioAct-jt_anioNaci)-1; // restamos para que nos de la edad
+```
+### Imagen de ejemplo de la edad de una persona
+```
+![image](https://user-images.githubusercontent.com/101405857/170806380-8b22cd15-d3e7-4e7f-870e-0fb4f2c7f664.png)
 ```
 ### Cuenta moneda
 #### Descripcion del problema
