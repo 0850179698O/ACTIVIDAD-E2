@@ -37,8 +37,8 @@ Comprobar si el programa muestre la suma total.
 ```
 jt_suma=jt_a+jt_b;  //sumamos
 ```
-![image](https://user-images.githubusercontent.com/101405857/170806141-e9614bdb-38c9-46d9-9bd4-308b7057f927.png)
-
+### Imagen de ejemplo
+![image](https://user-images.githubusercontent.com/101405857/170806315-3764f54b-b178-4864-b5d0-5769f9cf5b58.png)
 
 ### Punto de venta
 #### Descripcion del problema 
