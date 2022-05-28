@@ -21,6 +21,8 @@ Para comprobar si un valor numérico es mayor que otro, usamos el símbolo “>�
 if(jt_x==jt_y) //si son iguales
 if(jt_x>jt_y)  //si es mayor
 ```
+###Imagen de ejemplo
+
 ### Suma de varios numeros
 #### Descripcion del problema 
 ```
@@ -35,6 +37,9 @@ Comprobar si el programa muestre la suma total.
 ```
 jt_suma=jt_a+jt_b;  //sumamos
 ```
+![image](https://user-images.githubusercontent.com/101405857/170806141-e9614bdb-38c9-46d9-9bd4-308b7057f927.png)
+
+
 ### Punto de venta
 #### Descripcion del problema 
 ```
