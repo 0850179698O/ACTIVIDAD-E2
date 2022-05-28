@@ -21,7 +21,8 @@ Para comprobar si un valor numérico es mayor que otro, usamos el símbolo “>�
 if(jt_x==jt_y) //si son iguales
 if(jt_x>jt_y)  //si es mayor
 ```
-###Imagen de ejemplo
+#### Imagen de ejemplo de compara de dos numeros
+![image](https://user-images.githubusercontent.com/101405857/170806486-abb2fadc-9b5f-4ed6-8690-55962d505c53.png)
 
 ### Suma de varios numeros
 #### Descripcion del problema 
@@ -37,10 +38,9 @@ Comprobar si el programa muestre la suma total.
 ```
 jt_suma=jt_a+jt_b;  //sumamos
 ```
-### Imagen de ejemplo de la suma de varios numeros 
-```
+#### Imagen de ejemplo de la suma de varios numeros 
 ![image](https://user-images.githubusercontent.com/101405857/170806315-3764f54b-b178-4864-b5d0-5769f9cf5b58.png)
-```
+
 ### Punto de venta
 #### Descripcion del problema 
 ```
@@ -58,6 +58,9 @@ jt_vdes = jt_vb*0.10;  //sacamos el descuento
 jt_vfi = jt_vb+jt_iva;
 jt_vft = jt_vfi-jt_vdes;
 ```
+#### Ejemplo de la imagen de punto de venta
+![image](https://user-images.githubusercontent.com/101405857/170806739-668e9b58-bc8c-49ea-8e60-1103e5f8f340.png)
+
 ### La edad de una persona
 #### Descripcion del problema 
 ```
@@ -75,10 +78,8 @@ jt_edad=jt_anioNaci-jt_anioAct;
 jt_edad=jt_fechaNaci-jt_fechaAct;
 }else if(jt_mesNaci>jt_mesAct&jt_fechaNaci>jt_mesAct){(jt_edad=jt_anioAct-jt_anioNaci)-1; // restamos para que nos de la edad
 ```
-### Imagen de ejemplo de la edad de una persona
-```
+#### Imagen de ejemplo de la edad de una persona
 ![image](https://user-images.githubusercontent.com/101405857/170806380-8b22cd15-d3e7-4e7f-870e-0fb4f2c7f664.png)
-```
 ### Cuenta moneda
 #### Descripcion del problema
 ```
@@ -101,6 +102,9 @@ jt_c2 = jt_c2+1;
 jt_a2 = jt_a2+jt_x;
 }
 ```
+#### Imagen de ejemplo de cuenta moneda
+![image](https://user-images.githubusercontent.com/101405857/170806573-1d6551e3-7ae0-4d3a-83b0-e98f5a44fea4.png)
+
 ## Instalador
 ### Descargar el repositorio
 ```
